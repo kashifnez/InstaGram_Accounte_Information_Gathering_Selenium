@@ -10,8 +10,8 @@ username = driver.find_element_by_name("username")
 passd_ = driver.find_element_by_name("password")
 
 loginkey = driver.find_element_by_css_selector('section._9eogI.E3X2T main.SCxLW.o64aR:nth-child(2) div.tbpKJ article.agXmL div.rgFsT div.gr27e:nth-child(1) div.EPjEi form.HmktE div.Igw0E.IwRSH.eGOV_._4EzTm.kEKum > div.Igw0E.IwRSH.eGOV_._4EzTm.bkEs3.CovQj.jKUp7.DhRcB:nth-child(3)')
-username.send_keys('info@pythoniha.ir')
-passd_.send_keys('a09193163420')
+username.send_keys('username')
+passd_.send_keys('passwords')
 
 passd_.send_keys(Keys.ENTER)
 
