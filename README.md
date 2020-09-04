@@ -7,7 +7,7 @@ Program For Check :
 
 # Tets Demo 
 idi Test : @alireza.rashid.pv ===> This IDI Just For Test Program !
-##Output : 
+# Output : 
 Ok ! Your Are Login! Please Enter Your Target Username  :   alireza.rashid.pv
 Please Waiting For Scanning Acounte Type ...
 Acc Scaning Finished , Accounte Private !
